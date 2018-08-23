@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/sbtnh/date-from-string.svg?branch=master)](https://travis-ci.org/sbtnh/date-from-string)
+[![Coverage Status](https://coveralls.io/repos/github/sbtnh/date-from-string/badge.svg?branch=master)](https://coveralls.io/github/sbtnh/date-from-string?branch=master)
+
 # date-from-string
 Take a string date and convert it into a date.
 
