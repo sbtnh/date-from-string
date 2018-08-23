@@ -60,7 +60,7 @@ console.log(parse('2013-01-01'))
 ### AMD
 ```javascript
 define(function(require,exports,module){
-  var pluralise = require('date-from-string');
+  var dfs = require('date-from-string');
 });
 ```
 ## Test 
