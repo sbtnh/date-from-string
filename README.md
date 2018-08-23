@@ -49,9 +49,6 @@ dfs.parse('2013-11-14', 15, 49, 30, 12);
 // same as new Date(2013, 0, 1, 15, 49, 30, 12)
 dfs.parse('2013-01-01T00:00:00.000Z', 15, 49, 30, 12);
 ```
-```sh
-Output should be the equivalent of new Date(2013, 10, 14); (Remember, months are 0 based index)
-```
 ### TypeScript
 ```typescript
 import { parse } from 'date-from-string';
