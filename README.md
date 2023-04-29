@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sbtnh/date-from-string.svg?branch=master)](https://travis-ci.org/sbtnh/date-from-string)
+[![Build Status](https://app.travis-ci.com/sbtnh/date-from-string.svg?branch=master)](https://travis-ci.org/sbtnh/date-from-string)
 [![Coverage Status](https://coveralls.io/repos/github/sbtnh/date-from-string/badge.svg?branch=master)](https://coveralls.io/github/sbtnh/date-from-string?branch=master)
 
 # date-from-string
